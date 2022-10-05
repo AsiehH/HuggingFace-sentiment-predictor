@@ -4,7 +4,13 @@ from model import predict#, convert
 
 app = FastAPI()
 
+@app.get("/ping")
+def liveness():
+    return {"status": "up and running!"}
+    
 # pydantic models
+
+
 class StockIn(BaseModel):
     comment: str
 
