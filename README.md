@@ -66,14 +66,14 @@ So I chose 2 tweets from the tweeter dataset for hate speech to compare their la
 
 
 <p align="center">
-<img src="img/negative-tweeter-nonhate.png" alt="drawing" width="400"/>
+<img src="img/negative-tweeter-nonhate.png" alt="drawing" width="800"/>
 </p>
 
 - tweeter: hate
 - model: positive sentiment
 
 <p align="center">
-<img src="img/positive-tweeter-hate.png" alt="drawing" width="400"/>
+<img src="img/positive-tweeter-hate.png" alt="drawing" width="800"/>
 </p>
 
 
